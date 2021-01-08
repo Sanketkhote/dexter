@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "517837267258",
+    "firebase_url": "https://connectwiseapp-default-rtdb.firebaseio.com",
+    "project_id": "connectwiseapp",
+    "storage_bucket": "connectwiseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517837267258:android:376fe9792fd911e3d43003",
+        "android_client_info": {
+          "package_name": "com.sanket.connectwise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517837267258-2pns823b5ctpqpfeveelpde1gj3l9l1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanket.connectwise",
+            "certificate_hash": "1fc3e78bbffe4f4cfd81ee5708573f9faa9f1877"
+          }
+        },
+        {
+          "client_id": "517837267258-j659al5l0kscfcut8fgen6s1l0n48ptp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanket.connectwise",
+            "certificate_hash": "49cbdca9c4b3a080626942f1745ba12c0bc59b1c"
+          }
+        },
+        {
+          "client_id": "517837267258-f1sp6itnqv5lv1qiq9oo52e3avcrcam4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVFwtXZUPkfMGBs97P_R318HbIhkyFmQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517837267258-f1sp6itnqv5lv1qiq9oo52e3avcrcam4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517837267258:android:af20baab50185fb8d43003",
+        "android_client_info": {
+          "package_name": "com.sanket.dexter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517837267258-f1sp6itnqv5lv1qiq9oo52e3avcrcam4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVFwtXZUPkfMGBs97P_R318HbIhkyFmQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517837267258-f1sp6itnqv5lv1qiq9oo52e3avcrcam4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
